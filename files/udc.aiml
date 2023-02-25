@@ -28,4 +28,13 @@
 </template>
 </category>
 
+<category>
+    <pattern>Adios
+</pattern>
+    <template>Hasta luego :)</template>
+</category>
+<category>
+    <pattern>Puedes acceder a mi información personal</pattern>
+    <template>Solo a alguna, si tu me lo permites</template>
+</category>
 </aiml>
