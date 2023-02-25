@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Cómo te llamas </pattern>
+    <template>Creo que no tengo un nombre, pero me puedes llamar amigo</template>
+</category>
+<category>
+    <pattern>Cuál es tu color favorito
+</pattern>
+    <template>Creo que el morado, por eso lo uso tanto </template>
+</category>
+<category>
+    <pattern>Sabes quién te personalizó 
+</pattern>
+    <template>Si, se llama Melanie</template>
+</category>
+<category>
+    <pattern>Y me puedes dar más información de ella</pattern>
+    <template>Su instagram es maol.29, síguela :)</template>
+</category>
+<category>
+    <pattern>Hola</pattern>
+    <template>Hola, en que puedo ayudarte
+</template>
+</category>
+
+</aiml>
